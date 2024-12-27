@@ -1,0 +1,16 @@
+
+<paths>
+    <files-path name="files" path="." />
+
+    <external-path
+        name="external_storage_root"
+        path="." />
+
+    <external-path
+        name="external_files"
+        path="." />
+
+    <root-path
+        name="root"
+        path="." />
+</paths>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">File&amp;FolderRename</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="musics">Audios</string>
+    <string name="documents">Docx</string>
+    <string name="apk">Apks</string>
+    <string name="_10_05_2021">10/05/2021</string>
+    <string name="new_folder">New Folder</string>
+    <string name="label_save">Save</string>
+    <string name="new_file">New File</string>
+    <string name="encrypt_the_content">Encrypt the content</string>
+    <string name="label_content">Content</string>
+    <string name="label_name">Name</string>
+    <string name="label_decrypt">Decrypt</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_delete">Delete</string>
+    <string name="new_name">New name</string>
+    <string name="current_name">Current name</string>
+    <string name="rename">Rename</string>
+    <string name="drop_here">DROP HERE</string>
+    <string name="decline">DECLINE</string>
+    <string name="folder_options">Folder options</string>
+    <string name="file_options">File options</string>
+    <string name="moving_file">Moving: %1$s</string>
+    <string name="copy_file">Copying: %1$s</string>
+    <string name="App_Title_file_amp_folder_rename"><![CDATA[File & Folder Rename]]></string>
+    <string name="name">name</string>
+    <string name="rename_image">Rename Image</string>
+    <string name="rename_video">Rename Video</string>
+    <string name="rename_audio">Rename Audio</string>
+    <string name="title">title</string>
+    <string name="todo">TODO</string>
+    <string name="rename_document">Rename_Document</string>
+    <string name="rename_apk">Rename Apk</string>
+    <string name="rename_file">Rename File</string>
+</resources>

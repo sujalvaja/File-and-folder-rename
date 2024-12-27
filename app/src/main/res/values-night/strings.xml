@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="App_Title_file_amp_folder_rename"><![CDATA[File & Folder Rename]]></string>
+    <string name="rename_image">Rename Image</string>
+    <string name="rename_video">Rename Video</string>
+    <string name="rename_audio">Rename Audio</string>
+    <string name="title">title</string>
+    <string name="todo">TODO</string>
+    <string name="rename_document">Rename_Document</string>
+    <string name="rename_apk">Rename Apk</string>
+    <string name="rename_file">Rename File</string>
+</resources>
