@@ -10,8 +10,8 @@
   
   <h4>1. Storage Information Display</h4>
   
-  <p> Analyze and display storage details such as:\n
-        Total storage capacity./n
+  <p> Analyze and display storage details such as:<br>
+        Total storage capacity.
         Used storage space./n
         Free storage space./n
       Provides a quick overview to help users manage storage effectively.</p>
