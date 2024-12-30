@@ -43,7 +43,14 @@
       &emsp; &emsp;<b>Batch Rename Files:</b> Navigate to the file type (e.g., images, videos), select files, and apply new naming conventions.<br>
       &emsp; &emsp;<b>File Management:</b> Browse and manage all internal storage files directly from the app.</p>
 
-<img height="200" width="200" src="File&Folder Rename  UI/1/1.png">
+  
+  <h2>Screenshots & Demos</h2>
+  
+<p>&emsp; &emsp;Include screenshots or demo videos here to showcase the app's interface and functionality.</p>
+  <img height="200" width="300" src="File&Folder Rename  UI/1/1.png">
+    <img height="200" width="300" src="File&Folder Rename  UI/2/2.png">
+      <img height="200" width="300" src="File&Folder Rename  UI/3/3.png">
+        <img height="200" width="300" src="File&Folder Rename  UI/5/5.png">
   </body>
 </html>
 
