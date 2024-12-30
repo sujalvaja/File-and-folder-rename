@@ -1,5 +1,8 @@
 <html>
   <head>File Manager & Renamer App</head>
+  <body>
+    <h1>File Manager & Renamer App</h1>
+  </body>
 </html>
 File Manager & Renamer App
 
