@@ -47,10 +47,13 @@
   <h2>Screenshots & Demos</h2>
   
 <p>&emsp; &emsp;Include screenshots or demo videos here to showcase the app's interface and functionality.</p>
-  <img height="200" width="300" src="File&Folder Rename  UI/1/1.png">
-    <img height="200" width="300" src="File&Folder Rename  UI/2/2.png">
-      <img height="200" width="300" src="File&Folder Rename  UI/3/3.png">
-        <img height="200" width="300" src="File&Folder Rename  UI/5/5.png">
+  <p><img height="300" width="200" src="File&Folder Rename  UI/1/1.png">
+      <img height="300" width="200" src="File&Folder Rename  UI/2/2.png">
+      <img height="300" width="200" src="File&Folder Rename  UI/3/3.png">
+      <img height="300" width="200" src="File&Folder Rename  UI/5/5.png">
+      <img height="300" width="200" src="File&Folder Rename  UI/6/6.png">
+      <img height="300" width="200" src="File&Folder Rename  UI/7.png">
+      <img height="300" width="200" src="File&Folder Rename  UI/8.png"></p>
   </body>
 </html>
 
