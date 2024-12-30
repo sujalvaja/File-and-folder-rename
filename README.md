@@ -19,11 +19,11 @@
   <h4>2. Batch File Renaming</h4>
   
   <p> &emsp;Easily rename multiple files at once, organized by file types:<br>
-     &emsp; &emsp;Images: Batch rename photos and graphic files.<br>
-     &emsp; &emsp;Videos: Simplify naming conventions for your video files.<br>
-     &emsp; &emsp;Music: Organize your audio files with uniform names.<br>
-     &emsp; &emsp;Documents: Efficiently rename text files, PDFs, and other documents.<br>
-     &emsp; &emsp;APK Files: Rename APK files for better identification and sorting..</p>
+     &emsp; &emsp;<b>Images:</b> Batch rename photos and graphic files.<br>
+     &emsp; &emsp;<b>Videos:</b> Simplify naming conventions for your video files.<br>
+     &emsp; &emsp;<b>Music:</b> Organize your audio files with uniform names.<br>
+     &emsp; &emsp;<b>Documents:</b> Efficiently rename text files, PDFs, and other documents.<br>
+     &emsp; &emsp;<b>APK Files:</b> Rename APK files for better identification and sorting..</p>
   </body>
 </html>
 
