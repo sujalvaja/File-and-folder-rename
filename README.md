@@ -39,9 +39,16 @@
   <h2>Usage</h2>
 
    <p>&emsp; &emsp;Launch the app on your Android device.<br>
-      &emsp; &emsp;View Storage Info: Access the storage overview to see used and free space.<br>
-      &emsp; &emsp;Batch Rename Files: Navigate to the file type (e.g., images, videos), select files, and apply new naming conventions.<br>
-      &emsp; &emsp;File Management: Browse and manage all internal storage files directly from the app.</p>
+      &emsp; &emsp;<b>View Storage Info:</b> Access the storage overview to see used and free space.<br>
+      &emsp; &emsp;<b>Batch Rename Files:</b> Navigate to the file type (e.g., images, videos), select files, and apply new naming conventions.<br>
+      &emsp; &emsp;<b>File Management:</b> Browse and manage all internal storage files directly from the app.</p>
+
+
+  <h2>Technologies Used</h2>
+
+  <p>&emsp; &emsp;<b>Programming Language:</b> Java/Kotlin (Specify depending on your implementation)
+     &emsp; &emsp;<b>Framework:</b> Android SDK
+     &emsp; &emsp;<b>UI Design:</b> XML Layouts</p>
   </body>
 </html>
 
