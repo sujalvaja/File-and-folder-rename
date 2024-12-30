@@ -1,4 +1,6 @@
-
+<html>
+  <head>File Manager & Renamer App</head>
+</html>
 File Manager & Renamer App
 
 Overview
