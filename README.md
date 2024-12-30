@@ -24,6 +24,12 @@
      &emsp; &emsp;<b>Music:</b> Organize your audio files with uniform names.<br>
      &emsp; &emsp;<b>Documents:</b> Efficiently rename text files, PDFs, and other documents.<br>
      &emsp; &emsp;<b>APK Files:</b> Rename APK files for better identification and sorting..</p>
+
+
+  <h4>3. Internal Storage Management</h4>
+  
+  <p>&emsp; &emsp;Access and manage all files stored in internal storage.<br>
+   &emsp; &emsp;Save renamed files seamlessly back into internal storage. </p>  
   </body>
 </html>
 
