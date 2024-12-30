@@ -9,8 +9,8 @@ Features
 
 1. Storage Information Display
 
-  Analyze and display storage details such as:
-        oTotal storage capacity.
-        oUsed storage space.
-         Free storage space.
+  Analyze and display storage details such as:/n
+        oTotal storage capacity./n
+        oUsed storage space./n
+         Free storage space./n
   Provides a quick overview to help users manage storage effectively.
