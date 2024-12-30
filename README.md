@@ -30,6 +30,18 @@
   
   <p>&emsp; &emsp;Access and manage all files stored in internal storage.<br>
    &emsp; &emsp;Save renamed files seamlessly back into internal storage. </p>  
+
+  <h4>4. User-Friendly Interface</h4>
+    
+  <p>&emsp; &emsp;Designed with simplicity in mind, ensuring ease of use for users of all experience levels.</p>
+
+
+  <h2>Usage</h2>
+
+   <p>&emsp; &emsp;Launch the app on your Android device.<br>
+      &emsp; &emsp;View Storage Info: Access the storage overview to see used and free space.<br>
+      &emsp; &emsp;Batch Rename Files: Navigate to the file type (e.g., images, videos), select files, and apply new naming conventions.<br>
+      &emsp; &emsp;File Management: Browse and manage all internal storage files directly from the app.</p>
   </body>
 </html>
 
