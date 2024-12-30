@@ -43,12 +43,7 @@
       &emsp; &emsp;<b>Batch Rename Files:</b> Navigate to the file type (e.g., images, videos), select files, and apply new naming conventions.<br>
       &emsp; &emsp;<b>File Management:</b> Browse and manage all internal storage files directly from the app.</p>
 
-
-  <h2>Technologies Used</h2>
-
-  <p>&emsp; &emsp;<b>Programming Language:</b> Java/Kotlin (Specify depending on your implementation)
-     &emsp; &emsp;<b>Framework:</b> Android SDK
-     &emsp; &emsp;<b>UI Design:</b> XML Layouts</p>
+<img height="200" width="200" src="File&Folder Rename  UI/1/1.png">
   </body>
 </html>
 
